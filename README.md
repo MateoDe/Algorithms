@@ -1,2 +1,2 @@
-# BinarySearch
-A Simple demonstration of a binary search algorithm
+# Algorithms 
+A Simple demonstration of common used Algorithms from Platzi Course
